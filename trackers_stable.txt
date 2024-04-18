@@ -48,13 +48,13 @@ https://tracker1.520.jp:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker2.dler.com:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://t.acg.rip:6699/announce
-udp://retracker.hotplug.ru:2710/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 https://track3r.site:443/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
@@ -91,5 +91,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://inferno.demonoid.is:3391/announce
 https://t1.hloli.org:443/announce
+udp://inferno.demonoid.is:3391/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
