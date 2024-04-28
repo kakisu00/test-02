@@ -91,4 +91,3 @@ http://tracker1.itzmx.com:8080/announce
 udp://new-line.net:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
-https://trackers.ptlsp.com:443/announce
