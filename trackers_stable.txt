@@ -90,3 +90,4 @@ udp://tracker.filemail.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://btt.service.gongt.me:43079/announce
