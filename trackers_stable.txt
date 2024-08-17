@@ -61,8 +61,8 @@ udp://u.peer-exchange.download:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 http://tracker.mywaifu.best:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 http://t1.aag.moe:17715/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://run.publictracker.xyz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.torrust-demo.com:6969/announce
