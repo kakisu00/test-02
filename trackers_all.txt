@@ -840,6 +840,7 @@ https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn/announce
 https://tracker1.ctix.cn:443/announce
+https://tracker1.itzmx.com:8080/announce
 https://tracker1.loli.co.nz/announce
 https://tracker1.loli.co.nz:443/announce
 https://tracker1.wimix.org/announce
@@ -1055,7 +1056,6 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tk2v6.trackerservers.com:8080/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
