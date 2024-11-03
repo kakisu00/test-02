@@ -67,3 +67,4 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://jutone.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 https://tracker.pmman.tech:443/announce
+udp://7p41a8967.wicp.vip:22222/announce
