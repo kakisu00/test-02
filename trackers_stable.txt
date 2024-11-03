@@ -14,7 +14,6 @@ https://tracker.gcrenwp.top:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
-udp://ipv4.rer.lol:2710/announce
 https://tracker.lilithraws.org:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
