@@ -72,6 +72,6 @@ https://api.ipv4online.uk:443/announce
 https://tracker.bjut.jp:443/announce
 udp://opentracker.io:6969/announce
 https://mathkangaroo.jp:443/announce
-http://kiryuu-test.mywaifu.best:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 udp://open.dstud.io:6969/announce
