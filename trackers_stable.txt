@@ -25,7 +25,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.breizh.pm:6969/announce
 udp://open.demonii.com:1337/announce
 udp://t.overflow.biz:6969/announce
 https://pybittrack.retiolus.net:443/announce
@@ -35,6 +34,7 @@ udp://tracker.gigantino.net:6969/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.vraphim.com:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://evan.im:6969/announce
 http://tracker.bt4g.com:2095/announce
@@ -59,8 +59,8 @@ udp://tracker.filemail.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker.bittor.pw:1337/announce
 https://sparkle.ghostchu-services.top:443/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://wepzone.net:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://saltwood.top:6969/announce
@@ -73,5 +73,4 @@ https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
 udp://opentracker.io:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
-udp://run.publictracker.xyz:6969/announce
 udp://open.dstud.io:6969/announce
