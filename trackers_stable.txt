@@ -18,7 +18,6 @@ http://tracker1.itzmx.com:8080/announce
 https://t.213891.xyz:443/announce
 http://tracker.renfei.net:8080/announce
 http://tracker3.itzmx.com:6961/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
@@ -68,6 +67,7 @@ https://tr.zukizuki.org:443/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.dev-null.rocks:443/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 https://api.ipv4online.uk:443/announce
 http://bvarf.tracker.sh:2086/announce
 https://tracker.bjut.jp:443/announce
