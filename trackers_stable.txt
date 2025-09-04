@@ -23,12 +23,12 @@ http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.valete.tf:9999/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 udp://martin-gebhardt.eu:25/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.valete.tf:9999/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -47,12 +47,12 @@ udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.zupix.online:1333/announce
 http://0123456789nonexistent.com:80/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://shubt.net:2710/announce
 udp://tracker.startwork.cv:1337/announce
 udp://opentracker.io:6969/announce
 udp://tracker.skillindia.site:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
