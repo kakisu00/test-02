@@ -63,4 +63,3 @@ http://open.trackerlist.xyz:80/announce
 http://torrent.hificode.in:6969/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
-https://tracker.leechshield.link:443/announce
